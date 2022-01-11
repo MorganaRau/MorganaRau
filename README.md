@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🌈 Oii seja bem-vindo(a) 💗🧡💛💚💙💜
 
-<!--
-**MorganaRau/MorganaRau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📈 Atualmente estou buscando experiência 
+- 📚 Estou aprendendo Typescript
+- 🤝Quero poder colaborar com os demais usuários
+- 📧 Onde me contatar 
+- 🌸 Pronomes: Ela, a
+- 🌼 Fun fact: Amo desenhar e cultivar flores e hortaliças
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href=" https://github.com/MorganaRau" >
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=MorganaRau&show_icons=true&theme=jolly" />
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorganaRau&layout=compact&theme=jolly" />
+</div>
+
+
