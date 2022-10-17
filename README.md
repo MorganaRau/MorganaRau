@@ -1,19 +1,19 @@
-### 🌈 Oii seja bem-vindo(a) 💗🧡💛💚💙💜
+### 👋	Seja bem-vindo(a)
 
+- 👩‍💻QUERO MUITO ser WEBDEV, amo desafios, adoro Front-end e também back-end.
+ Se eu tivesse que escolher entre um dos dois?🤔 escolheria Front-end, mas trabalharia e aprenderia tranquilamente sobre back-end, aliás já estudei bastante sobre Java, e pretendo estudar mais PHP por agora.
+ Sou do tipo de pessoa que mexe com tudo um pouco, não me limito porque não conheço sobre algum assunto, eu corro atrás até o fim para conseguir a resposta.
+- 📈 Atualmente estou buscando me aperfeiçoar
+- 📚 Estou aprendendo Typescript e outras linguagens para web                                   
+- ☕ Java avançado
+- 🌼👩‍🌾 Fun fact: Amo desenhar e cultivar flores
 
-- 📈 Atualmente estou buscando experiência 
-- 📚 Estou aprendendo Typescript
-- 🤝Quero poder colaborar com os demais usuários                                     
-- 🌸 Pronomes: Ela, a
-- 🌼 Fun fact: Amo desenhar e cultivar flores
-
- <img src="https://agora.community/storage/avatars/8MbxAwzNAWyHeCkvnjfIPZS2fNtXzUZwNYSfQzES.gif" height="200"/>
-  💖Contate -me 📩
+ 
+  👍Contate -me 📩
  <div>
   <a href="mailto:morganavrsantos@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:morganavrsantos@gmail.com">   </a>
     <a href="https://api.whatsapp.com/send?phone=+55519810245555 "> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5551981024555&text=Hello!">   </a>
  <a href="https://www.linkedin.com/in/morgana-viegas-6b963819a/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://www.instagram.com/morgana_rau/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
  
  </div>
  <br></br>
