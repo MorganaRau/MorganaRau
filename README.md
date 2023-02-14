@@ -8,7 +8,7 @@
  Sou do tipo de pessoa que mexe com tudo um pouco, não me limito porque não conheço sobre algum assunto, eu corro atrás até o fim para conseguir a resposta.
 - 💻 Atualmente estou em busca de experiência
 - 📚 Estou aprendendo Javascript e outras linguagens para web                                   
-- ☕ Java avançado
+- ☕ Java 
 - 🎨👩‍🌾 Fun fact: Amo desenhar e cultivar flores 🌹
 
  
