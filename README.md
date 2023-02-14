@@ -41,6 +41,6 @@
 </div>
  <div>
  <a href=" https://github.com/MorganaRau" >
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=MorganaRau&show_icons=true&theme=panda" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorganaRau&layout=compact&theme=panda"  />
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=MorganaRau&show_icons=true&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorganaRau&layout=compact&theme=radical"  />
 </div>
