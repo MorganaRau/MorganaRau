@@ -4,7 +4,7 @@
 
 ### 🙋Sobre mim ❤️
 - 👩‍💻QUERO MUITO ser WEBDEV, amo desafios, adoro Front-end e também back-end.
- Se eu tivesse que escolher entre um dos dois?🤔 escolheria Front-end, mas trabalharia e aprenderia tranquilamente sobre back-end, aliás já estudei bastante sobre Java, e pretendo estudar mais PHP por agora.
+ Se eu tivesse que escolher entre um dos dois?🤔 escolheria Front-end, mas trabalharia e aprenderia tranquilamente sobre back-end, aliás já estudei bastante sobre Java, e pretendo estudar mais Javascript por agora.
  Sou do tipo de pessoa que mexe com tudo um pouco, não me limito porque não conheço sobre algum assunto, eu corro atrás até o fim para conseguir a resposta.
 - 💻 Atualmente estou em busca de experiência
 - 📚 Estou aprendendo Javascript e outras linguagens para web                                   
